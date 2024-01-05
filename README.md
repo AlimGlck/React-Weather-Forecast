@@ -2,6 +2,8 @@
 
 You can get all the Weather Forecast data of Turkish cities starting today to the next seven days by selecting the city you want.
 
+***Netlify Link***: https://venerable-marigold-c6c036.netlify.app
+
 ## Used React Hooks
 
 UseContext ✅
